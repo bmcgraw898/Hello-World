@@ -4,7 +4,7 @@
 - [Description](#Description)
 - [About Me](#About-Me)
 - [My Favorite Foods](#My-Favorite-Foods)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [ME](#ME)
 - [VERSIONING](#versioning)
 
 
