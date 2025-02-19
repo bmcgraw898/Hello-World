@@ -33,7 +33,7 @@ favorite artist Travis Scott twice. Once in Milwaukee and the other in Chicago!
 
 
 ## **ME**
-! [Here is me]![Summer Smash](https://github.com/user-attachments/assets/74a253c7-3b86-44e5-b704-7133facbf859)
+Here is me! ![Summer Smash](https://github.com/user-attachments/assets/74a253c7-3b86-44e5-b704-7133facbf859)
 
 ## Versioning
 The Most up to date version of this file is 2/18/25
