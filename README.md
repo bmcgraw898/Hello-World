@@ -4,6 +4,8 @@
 - [Description](#Description)
 - [About Me](#About-Me)
 - [My Favorite Foods](#My-Favorite-Foods)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
 
 
 ## Project Title
@@ -28,3 +30,10 @@ favorite artist Travis Scott twice. Once in Milwaukee and the other in Chicago!
 1. **Pasta**
 2. **Enchiladas**
 3. **Breaded Chicken**
+
+
+## **ME**
+! [Here is me](![Summer Smash](https://github.com/user-attachments/assets/74a253c7-3b86-44e5-b704-7133facbf859)
+
+## Versioning
+The Most up to date version of this file is 2/18/25
